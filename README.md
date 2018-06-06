@@ -1,0 +1,2 @@
+# TestDatastoreGQLQuery
+Test GQL Query
